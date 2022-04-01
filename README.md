@@ -7,3 +7,7 @@ i need learn to much about java programming language.
 Thank You for All who has visit My Repository.
 
 GOD BLESS YOU ALL
+
+FYI look to below : 
+main file save on src/main -> java -> com/example/projek
+and the UI save on src/main -> java -> resources/com/example/projek ->
